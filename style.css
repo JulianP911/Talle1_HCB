@@ -1,0 +1,28 @@
+/* Estilos personalizados de a pagina web */
+
+/* Estilo del titulo principal de la pagina web */
+.titulo{
+    color: #383838;
+    text-align: center;
+}
+
+/* Estilo divisor 1 */
+.divisor-1{
+    border: 2px solid gray;
+}
+
+/* Estilo parrafos correspon diente a la bibliografia*/
+.parrafo-biografia{
+    text-align: justify;
+}
+
+/* Estilo del link que hace referencia a otra pagina web*/
+.link{
+    color: black;
+}
+
+/* Estilo divisor 2 */
+.divisor-2{
+    border: 2px solid gray;
+    margin-top: 1px;
+}
