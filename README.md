@@ -1,4 +1,4 @@
-# Talle1_HCB - Desarrollo de Software en Equipo
+# Taller1_HCB - Desarrollo de Software en Equipo
 
 <strong>Autor: Julian Padilla Molina - 201913677</strong>
 
